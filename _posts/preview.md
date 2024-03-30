@@ -4,7 +4,7 @@ excerpt: "Service is where I get to understand my worth. Often times doing stuff
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
+  name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"

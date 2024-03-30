@@ -4,7 +4,7 @@ excerpt: "I love the world, or more accurately put, the ~universe~ of web develo
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
