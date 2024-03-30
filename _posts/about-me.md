@@ -12,7 +12,7 @@ ogImage:
 
 My journey to becoming a professional tech guru has been marked by luck, willingness, community, all in the face of deep adversities. At one point, I found myself teetering on the edge of dropping out of university, struggling with alcohol addiction and feeling utterly lost in life. It was a dark and challenging time, one where I felt disconnected from myself and the world around me. I had generations of family that had battled this same unhealthy coping mechanism.
 
-Through Grace, I found redemption and purpose. God's love and guidance became my guiding light, leading me out of the darkness and into a life filled with hope and possibility. As I journeyed this road, which felt like "Snake Way" at times, I discovered a untapped passion for technology. I became a testament of God's humor. An embodiment of someone who couldn't trust his mind into becoming dependent on it. 
+Through Grace, I found redemption and purpose. God's love and guidance became my guiding light, leading me out of the darkness and into a life filled with hope and possibility. As I journeyed this road, which felt like "Snake Way" at times, I discovered an untapped passion for technology. I became a testament of God's humor. An embodiment of someone who couldn't trust his mind into becoming dependent on it. 
 
 I love the world, or more accurately put, the ~universe~ of web development. I am both a beginner and a master of technology, consistently humbled by how little I know and honored by the knowledge I possess, enough to be relied upon and entrusted with in finding resolutions.
 
@@ -21,5 +21,6 @@ Always transcendent to the accolades and achievements, is the journey itself. Th
 Thanks for reading!
 
 ## Vulnerability, Humility, Adversity
+
 
 Job 9:10
