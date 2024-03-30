@@ -7,8 +7,7 @@ export function Intro() {
         Drew Development.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        my Portfolio
-        and {CMS_NAME}.
+        my {CMS_NAME}.
       </h4>
     </section>
   );
