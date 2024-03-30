@@ -2,7 +2,7 @@
 title: "Open-mindedness that has saved my career."
 excerpt: "I decided to whip our project into shape using React and Firebase. I took a big risk and that move taught me that in web development, flexibility is king"
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-03-30"
 author:
   name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"
