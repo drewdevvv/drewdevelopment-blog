@@ -7,7 +7,7 @@ author:
   name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"
 ogImage:
-  url: "/assets/blog/preview/thedolorosa.jpg"
+  url: "/assets/blog/preview/cover.jpg"
 ---
 
 My main project I have worked on as a freelancer is <a href="[https://thedolorosa.com]">The Dolorosa</a>
