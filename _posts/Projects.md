@@ -13,5 +13,5 @@ ogImage:
 ## Projects
 My first project I worked on as a freelancer was **[The Dolorosa site and CMS](https://thedolorosa.com)**
 
-This project was my introduction to webflow. After bootcamp I discovered headless CMS's and no-code platforms that allowed the ability for less technicaly users to manage content on a site in an efficient way. Webflow allowed me to get practice on creating custom forms and ways to organize/manage users in a seamless way. Adding new tattoo artists and customized content for each artist allowed a simple workflow and sustainable system.
+This project was my introduction to webflow. After bootcamp I discovered CMS and "no-code" platforms that allowed the ability for less technical users to manage content on a site in an efficient way. Webflow allowed me to get practice on creating custom forms and ways to organize/manage users in a seamless way. I built out customized email automations. Adding new tattoo artists and customized content for each artist allowed a simple workflow and sustainable system for future managers.
 
