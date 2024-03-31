@@ -1,4 +1,5 @@
 # A statically generated blog example using Next.js, Markdown, and TypeScript
+Edited by me and reconfigured to support a portfolio functionality.
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
 
