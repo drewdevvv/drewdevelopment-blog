@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `Drew Development ${CMS_NAME}`,
-  description: `A Web ${CMS_NAME} page built with next.js vercel and drew development .`,
+  description: `A Web ${CMS_NAME} page built with next.js.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
