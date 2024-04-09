@@ -19,4 +19,4 @@ This project was my introduction to webflow. After bootcamp I discovered CMS and
 
 Scorpion is my current place of work. **[Scorpion](https://scorpion.co)**
 
-Here I arrange a wide variety of websites that are built on a proprietary CMS leveraging an ASP.NET Stack. I have really grown in my web development languages, of HTML, CSS, and JS but the systems have really taught me the full stack skills to debug from a nuclear perspective. Getting to the root of things pragmatically is what I enjoy most. I have really learned how powerful SQL and C# are together. 
+Here I manage a wide variety of websites that are built on a proprietary CMS leveraging a .NET Stack. I have really grown in my web development languages, of HTML, CSS, and JS but the systems have really taught me the full stack skills to debug from a nuclear perspective. Getting to the root of things pragmatically is what I enjoy most. I have really learned how powerful SQL and C# are together. 
