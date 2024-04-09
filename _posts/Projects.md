@@ -2,7 +2,6 @@
 title: "Projects"
 excerpt: "Service is where I get to understand my worth. Often times doing stuff expecting nothing in return is literally life-saving."
 coverImage: "/assets/blog/preview/cover.jpg"
-date: "2024-03-30"
 author:
   name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"

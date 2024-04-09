@@ -1,12 +1,12 @@
 ---
 title: "A Short Exposition of My Journey"
 excerpt: "I love the world, or more accurately put, the ~universe~ of web development. I am both a beginner and a master of technology, consistently humbled by how little I know and honored by the knowledge I possess, enough to be relied upon and entrusted with in finding resolutions."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/authors/drewponcelogo.jpg"
 author:
   name: Drew Ponce
-  picture: "/assets/blog/authors/dd.png"
+  picture: "/assets/blog/authors/drewponcelogo.png"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/authors/drewponcelogo.jpg"
 ---
 
 My journey to becoming a professional tech guru has been marked by luck, willingness, community, all in the face of deep adversities. At one point, I found myself teetering on the edge of dropping out of university, struggling with alcohol addiction and feeling utterly lost in life. It was a dark and challenging time, one where I felt disconnected from myself and the world around me. I had generations of family that had battled this same unhealthy coping mechanism.
