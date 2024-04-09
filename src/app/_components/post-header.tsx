@@ -6,11 +6,10 @@ import { type Author } from "@/interfaces/author";
 type Props = {
   title: string;
   coverImage: string;
-  date: string;
   author: Author;
 };
 
-export function PostHeader({ title, coverImage, date, author }: Props) {
+export function PostHeader({ title, coverImage, author }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
