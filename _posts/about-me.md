@@ -2,7 +2,6 @@
 title: "A Short Exposition of My Journey"
 excerpt: "I love the world, or more accurately put, the ~universe~ of web development. I am both a beginner and a master of technology, consistently humbled by how little I know and honored by the knowledge I possess, enough to be relied upon and entrusted with in finding resolutions."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-03-30"
 author:
   name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"
