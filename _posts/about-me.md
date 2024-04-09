@@ -4,7 +4,7 @@ excerpt: "I love the world, or more accurately put, the ~universe~ of web develo
 coverImage: "/assets/blog/authors/drewponcelogo.jpg"
 author:
   name: Drew Ponce
-  picture: "/assets/blog/authors/drewponcelogo.png"
+  picture: "/assets/blog/authors/dd.png"
 ogImage:
   url: "/assets/blog/authors/drewponcelogo.jpg"
 ---

@@ -1,12 +1,12 @@
 ---
-title: "Open-mindedness that has saved my career."
+title: "Open-mindedness."
 excerpt: "I decided to whip our project into shape using React and Firebase. I took a big risk and that move taught me that in web development, flexibility is king"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 author:
   name: Drew Ponce
-  picture: "/assets/blog/authors/drewponcelogo.jpg"
+  picture: "/assets/blog/authors/dd.png"
 ogImage:
-  url: "/assets/blog/authors/drewponcelogo.jpg"
+  url: "/assets/blog/hello-world/cover.jpg"
 ---
 
 Open-mindedness that has saved my career.
