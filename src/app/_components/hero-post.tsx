@@ -15,7 +15,6 @@ type Props = {
 export function HeroPost({
   title,
   coverImage,
-  date,
   excerpt,
   author,
   slug,
