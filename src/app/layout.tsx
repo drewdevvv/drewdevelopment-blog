@@ -1,11 +1,13 @@
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Roboto } from "next/font/google"; // Add this line
 
 import "./globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
+const roboto = Roboto({
+  subsets: ["latin"],
+  weight: "300"
+}); 
 
 export const metadata: Metadata = {
   title: `Drew Development ${CMS_NAME}`,
@@ -55,7 +57,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={inter.className}>
+      <body className={roboto.className}>
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
