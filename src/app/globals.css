@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import 'flowbite';
+
 body {
     background: linear-gradient(to bottom, #f9f9f9, #f1f1f1);
 }
