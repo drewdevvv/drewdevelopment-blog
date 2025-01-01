@@ -1,6 +1,6 @@
 ---
 title: "A Short Exposition of My Journey"
-excerpt: "I love the world, or more accurately put, the ~universe~ of web development. I am both a beginner and a master of technology, consistently humbled by how little I know and honored by the knowledge I possess, enough to be relied upon and entrusted with in finding resolutions."
+excerpt: "Full-stack developer specializing in CMS development, React, and cloud technologies. Passionate about creating efficient solutions and mentoring others."
 coverImage: "/assets/blog/authors/drewponcelogo.jpg"
 author:
   name: Drew Ponce
@@ -9,17 +9,19 @@ ogImage:
   url: "/assets/blog/authors/drewponcelogo.jpg"
 ---
 
-My journey to becoming a professional tech guru has been marked by luck, willingness, and community - all in the face of deep adversities. 9 years ago I found myself dropping out of university, struggling with alcohol addiction and feeling utterly lost in life. It was a dark and challenging time, one where I felt disconnected from myself and the world around me. I had generations of family that had battled this same unhealthy coping mechanism.
+As a Product CMS Developer at Scorpion Enterprises LLC, I help build scalable content management systems using modern web technologies. My work empowers businesses across various industries with efficient, user-friendly solutions.
 
-Through Grace, I found redemption and purpose. God's love and guidance became my guiding light, leading me out of the darkness and into a life filled with hope and possibility. As I journeyed this road, which felt like "Snake Way" at times, I discovered an untapped passion for technology. I became a testament of God's humor. An embodiment of someone who couldn't trust his mind into becoming dependent on it. 
+My tech journey includes roles at Apple and Infosys, providing technical support and solutions to individuals and SMBs. At Firm Collective, I led the One Accord App development, managing both technical implementation and team coordination. Currently, I'm pursuing an MBA with Cybersecurity emphasis at Southern Utah University, an AACSB-accredited institution, aiming to help protect America's digital resources.
 
-I love the world, or more accurately put, the ~universe~ of web development. I am both a beginner and a master of technology, consistently humbled by how little I know and honored by the knowledge I possess, enough to be relied upon and entrusted with in finding resolutions.
+Through faith and determination, I transformed personal challenges into opportunities for growth. Today, I combine technical expertise with a passion for mentoring aspiring developers.
 
-Always transcendent to the accolades and achievements, is the journey itself. The journey is ever-changing and the gifts God gives on this road are always better than anything I could've came up with on my own. It's taught me the value of perseverance, the importance of faith, and the power of redemption. And as I continue to forge ahead on this remarkable journey, I do so with gratitude, service and humility. 
+Technical proficiencies:
+- Frontend: React, TypeScript, C#, Next.js, Tailwind CSS
+- Backend: Node.js, Express, PostgreSQL, SQL Server, Cloudflare Workers
+- Cloud: AWS, Azure, Docker, Cloudflare, CI/CD
+- Testing: Jest, React Testing Library
+- AI: Iterative Refinement, Model Context Protocol
 
-Thanks for reading!
+Currently focusing on cloud architecture, system design, and open-source contributions. Check out my article on [Building with Claude AI in JetBrains](https://me-drew.medium.com/jetbrains-cloudflare-claude-ai-is-the-best-claude-ai-v0-8947c9d69a80).
 
-## Vulnerability, Humility, Adversity
-
-
-Job 9:10
+## Growth Through Service

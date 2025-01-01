@@ -1,21 +1,54 @@
 ---
-title: "Projects"
-excerpt: "Service is where I get to understand my worth. Often times doing stuff expecting nothing in return is literally life-saving."
-coverImage: "/assets/blog/preview/cover.jpg"
+title: "Featured Projects"
+excerpt: "From cloud-native applications to AI integrations - showcasing my technical evolution and project contributions"
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 author:
   name: Drew Ponce
   picture: "/assets/blog/authors/dd.png"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-## Project - The Dolorosa
-My first project I worked on as a freelancer was **[The Dolorosa site and CMS](https://thedolorosa.com)**
+## One Accord App
+A cross-platform mobile application for Christian community building:
+- React Native with TypeScript
+- Cloud infrastructure using AWS Amplify
+- Real-time messaging and community features
+- Prayer request management system
+- Location-based church discovery
+[GitHub Repository](https://github.com/Firm-Collective/One-Accord)
 
-This project was my introduction to webflow. After bootcamp I discovered CMS and "no-code" platforms that allowed the ability for less technical users to manage content on a site in an efficient way. Webflow allowed me to get practice on creating custom forms and ways to organize/manage users in a seamless way. I built out customized email automations. Adding new tattoo artists and customized content for each artist allowed a simple workflow and sustainable system for future managers.
+## Develop in Rest (developir.ai)
+AI-powered development assistant platform:
+- Next.js 13 with TypeScript
+- Cloudflare Workers and KV storage
+- Claude AI integration
+- Real-time code analysis
+- Custom UI components with Tailwind
+[Live Site](https://developir.ai)
 
-## Project - Scorpion
+## TheDolorosa.com Evolution
+Multi-phase transformation of a top-rated Los Angeles tattoo and piercing studio:
 
-Scorpion is my current place of work. **[Scorpion](https://scorpion.co)**
+Phase 1: WordPress to Webflow (2022)
+- Content migration and restructuring
+- Modern design implementation
+- Improved content management
+- Enhanced user experience
+- SEO optimization resulting in increased traffic
 
-Here I manage a wide variety of websites that are built on a proprietary CMS leveraging a .NET Stack. I have really grown in my web development languages, of HTML, CSS, and JS but the systems have really taught me the full stack skills to debug from a nuclear perspective. Getting to the root of things pragmatically is what I enjoy most. I have really learned how powerful SQL and C# are together. 
+Phase 2: Webflow to Cloud-Native (2024)
+- Next.js implementation
+- Dynamic content delivery
+- Cloudflare deployment
+- Custom CMS integration
+- Performance optimization
+- Advanced SEO features and analytics
+[GitHub Repository](https://github.com/drewdevvv/thedolorosa)
+
+## Technical Stack
+- Cloud: AWS Amplify, Cloudflare Workers
+- Frontend: React Native, Next.js, TypeScript
+- Backend: Node.js, Express, Serverless Functions
+- AI: Claude AI, OpenAI integration
+- DevOps: CI/CD, Docker, Git

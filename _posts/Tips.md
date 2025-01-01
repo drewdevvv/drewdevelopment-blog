@@ -1,6 +1,6 @@
 ---
-title: "Open-mindedness."
-excerpt: "I decided to whip our project into shape using React and Firebase. I took a big risk and that move taught me that in web development, flexibility is king"
+title: "Evolution Through Technology"
+excerpt: "From MERN stack to cloud-native development with Cloudflare, AWS, and AI - my journey of continuous learning and adaptation in tech"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 author:
   name: Drew Ponce
@@ -9,8 +9,22 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Open-mindedness that has saved my career.
+My tech journey reflects the ever-evolving nature of web development. Starting with the MERN stack in bootcamp, I've explored various technologies and approaches:
 
-## Flexibility
+## Technology Evolution
+- MERN → Next.js/TypeScript
+- Firebase → AWS/Cloudflare
+- Basic React → Enterprise Architecture
+- Manual Testing → Automated CI/CD
+- Traditional Development → AI-Enhanced Development
 
-Back in coding bootcamp, we were all about that MERN stack life. Picture me, three years ago, sweating bullets as I geared up for the final project. In a moment of sheer desperation (or brilliance, depending on who you ask), I decided to whip our project into shape using React and Firebase. I took a big risk and that move taught me that in web development, flexibility is king!
+## Learning Through Gaps
+Periods of reduced activity taught me valuable lessons. Each return to coding brought fresh perspectives and new technologies to master. The key is persistence - technology evolves, and so do we.
+
+## Current Focus
+I'm now building with cloud-native technologies, particularly Cloudflare Workers and AI integration. My repositories show this progression:
+- Early projects: Basic CRUD applications
+- Recent work: Cloud-native solutions with AI capabilities
+- Current exploration: JetBrains AI tools, Cloudflare integrations
+
+The best developers stay adaptable and embrace change. Skills can be learned, but curiosity and resilience are invaluable.
