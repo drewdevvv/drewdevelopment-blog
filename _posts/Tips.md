@@ -25,6 +25,6 @@ Periods of reduced activity taught me valuable lessons. Each return to coding br
 I'm now building with cloud-native technologies, particularly Cloudflare Workers and AI integration. My repositories show this progression:
 - Early projects: Basic CRUD applications
 - Recent work: Cloud-native solutions with AI capabilities
-- Current exploration: JetBrains AI tools, Cloudflare integrations
+- Current exploration: Model Context Protocol, Cloudflare integrations
 
 The best developers stay adaptable and embrace change. Skills can be learned, but curiosity and resilience are invaluable.
