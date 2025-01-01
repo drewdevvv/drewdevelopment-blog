@@ -27,7 +27,7 @@ AI-powered development assistant platform:
 - Custom UI components with Tailwind
 [Live Site](https://developir.ai)
 
-## TheDolorosa.com Evolution
+## thedolorosa.com Evolution
 Multi-phase transformation of a top-rated Los Angeles tattoo and piercing studio:
 
 Phase 1: WordPress to Webflow (2022)
@@ -45,6 +45,7 @@ Phase 2: Webflow to Cloud-Native (2024)
 - Performance optimization
 - Advanced SEO features and analytics
 [GitHub Repository](https://github.com/drewdevvv/thedolorosa)
+[Live Site](https://thedolorosa.com)
 
 ## Technical Stack
 - Cloud: AWS Amplify, Cloudflare Workers
