@@ -1,5 +1,5 @@
 ---
-title: "My Why"
+title: "More of my journey"
 excerpt: "From MERN stack to cloud-native development with Cloudflare, AWS, and AI - my journey of continuous learning and adaptation in tech"
 coverImage: "/assets/blog/media/why.webp"
 author:

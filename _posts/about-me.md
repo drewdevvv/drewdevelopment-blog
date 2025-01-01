@@ -15,13 +15,5 @@ My tech journey includes roles at Apple and Infosys, providing technical support
 
 Through faith and determination, I transformed personal challenges into opportunities for growth. Today, I combine technical expertise with a passion for mentoring aspiring developers.
 
-Technical proficiencies:
-- Frontend: React, TypeScript, C#, Next.js, Tailwind CSS
-- Backend: Node.js, Express, PostgreSQL, SQL Server, Cloudflare Workers
-- Cloud: AWS, Azure, Docker, Cloudflare, CI/CD
-- Testing: Jest, React Testing Library
-- AI: Iterative Refinement, Model Context Protocol
-
-Currently focusing on cloud architecture, system design, and open-source contributions. Check out my article on [Building with Claude AI in JetBrains](https://me-drew.medium.com/jetbrains-cloudflare-claude-ai-is-the-best-claude-ai-v0-8947c9d69a80).
 
 ## Growth Through Service
