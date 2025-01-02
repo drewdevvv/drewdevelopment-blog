@@ -5,27 +5,20 @@
 
 .markdown h2 {
   @apply text-3xl mt-12 mb-4 leading-snug font-bold;
-  @apply bg-white rounded-xl shadow-md p-6;
-  @apply transition-shadow duration-300 hover:shadow-lg;
 }
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
 
-.markdown a {
-  @apply text-blue-600 hover:text-blue-800 transition-colors duration-200;
-}
-
 .markdown ul {
-  @apply my-6 ml-6 list-none;
+  @apply my-6 ml-6 list-disc;
 }
 
 .markdown ul li {
   @apply mb-2;
 }
 
-.markdown ul li:before {
-  content: "•";
-  @apply text-blue-500 mr-2;
+.markdown a {
+  @apply text-blue-600 hover:text-blue-800 transition-colors duration-200;
 }

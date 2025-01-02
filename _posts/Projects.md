@@ -16,7 +16,7 @@ A cross-platform mobile application for Christian community building:
 - Real-time messaging and community features
 - Prayer request management system
 - Location-based church discovery
-- [GitHub Repository](https://github.com/Firm-Collective/One-Accord)
+**- [GitHub Repository](https://github.com/Firm-Collective/One-Accord)**
 
 ## Develop in Rest (developir.ai) 
 AI-powered development assistant platform:
@@ -25,7 +25,7 @@ AI-powered development assistant platform:
 - Claude AI integration
 - Real-time code analysis
 - Custom UI components with Tailwind
-- [Live Site](https://developir.ai)
+**- [Live Site](https://developir.ai)**
 
 ## TheDolorosa.com Evolution
 Multi-phase transformation of a top-rated Los Angeles tattoo and piercing studio:
@@ -44,7 +44,7 @@ Phase 2: Webflow to Cloud-Native (2024)
 - Custom CMS integration
 - Performance optimization
 - Advanced SEO features and analytics
-- [GitHub Repository](https://github.com/drewdevvv/thedolorosa)
+**- [GitHub Repository](https://github.com/drewdevvv/thedolorosa)**
 
 
 ## Technical Stack
