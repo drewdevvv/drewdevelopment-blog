@@ -17,6 +17,7 @@ A cross-platform mobile application for Christian community building:
 - Prayer request management system
 - Location-based church discovery
 - **[GitHub Repository](https://github.com/Firm-Collective/One-Accord)**
+- **[Live Site](https://one-accord.vercel.app)**
 
 ## Develop in Rest (developir.ai) 
 AI-powered development assistant platform:
