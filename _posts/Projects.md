@@ -7,6 +7,7 @@ author:
   picture: "/assets/blog/authors/dd.png"
 ogImage:
   url: "/assets/blog/media/cover.jpg"
+order: 3
 ---
 
 ## One Accord App
@@ -21,15 +22,16 @@ A cross-platform mobile application for Christian community building:
 
 ## Develop in Rest (developir.ai) 
 AI-powered development assistant platform:
-- Next.js 13 with TypeScript
+- React 18
 - Cloudflare Workers and KV storage
+- Anti-bot security
 - Claude AI integration
 - Real-time code analysis
 - Custom UI components with Tailwind
 - **[Live Site](https://developir.ai)**
 
 ## thedolorosa.com Evolution
-Multi-phase transformation of a top-rated Los Angeles tattoo and piercing studio:
+Multi-phase website transformation of a top-rated Los Angeles tattoo and piercing studio:
 
 Phase 1: WordPress to Webflow (2022)
 - Content migration and restructuring
@@ -52,6 +54,6 @@ Phase 2: Webflow to Cloud-Native (2024)
 ## Technical Stack
 - Cloud: AWS Amplify, Cloudflare Workers
 - Frontend: React Native, Next.js, TypeScript
-- Backend: Node.js, Express, Serverless Functions
-- AI: Claude AI, OpenAI integration
-- DevOps: CI/CD, Docker, Git
+- Backend: Node.js, Express, Server SQL, Cloudflare R2, D1, and KV storage, Serverless Functions, Edge Functions
+- AI: Anthropic API, Model Context Protocol, OpenAI API
+- DevOps: CI/CD, Docker, Git, NewRelic

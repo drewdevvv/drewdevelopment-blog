@@ -22,6 +22,6 @@ export function getAllPosts(): Post[] {
   const slugs = getPostSlugs();
   const posts = slugs
     .map((slug) => getPostBySlug(slug))
-    .sort((post1, post2) => (post1.author > post2.author ? 1 : -1));
+    .sort((post1, post2) => (post1.order > post2.order ? 1 : -1));
   return posts;
 }

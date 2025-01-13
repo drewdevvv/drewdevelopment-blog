@@ -11,4 +11,5 @@ export type Post = {
   };
   content: string;
   preview?: boolean;
+  order: number;
 };
