@@ -1,5 +1,3 @@
-import { CMS_NAME } from "@/lib/constants";
-
 export function Intro() {
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
@@ -7,7 +5,10 @@ export function Intro() {
         Andrew <small className="text-2xl md:text-4xl text-gray-600 mr-2">(aka drew)</small>Ponce
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-       This is my {CMS_NAME}.
+        Building AI-powered solutions at{" "}
+        <a href="https://developir.org" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+          Develop in Rest
+        </a>
       </h4>
       <div className="mt-5 flex space-x-4">
         <a href="https://myportfoliostuff.s3.us-east-2.amazonaws.com/AndrewDrewPonce_Resume1.pdf" download className="btn btn-primary flex items-center justify-center w-12 h-12 rounded-full bg-blue-500 text-white">

@@ -1,20 +1,24 @@
 import Footer from "@/app/_components/footer";
-import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
+import { SITE_TITLE, SITE_DESCRIPTION, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google"; // Add this line
 
 import "./globals.css";
-const roboto = Roboto({
-  subsets: ["latin"],
-  weight: "300"
-}); 
 
 export const metadata: Metadata = {
-  title: `Drew Development ${CMS_NAME}`,
-  description: `A Web ${CMS_NAME} page built with next.js.`,
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
   openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
     images: [HOME_OG_IMAGE_URL],
+    siteName: "Drew Ponce Portfolio",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
+  metadataBase: new URL('https://drew.developir.org'),
 };
 
 export default function RootLayout({
@@ -57,7 +61,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={roboto.className}>
+      <body className="font-sans">
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
